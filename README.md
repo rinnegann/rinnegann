@@ -1,11 +1,10 @@
 <h1 align="center">Hallo 👋, I'm Nipun AKA Rinnegann</h1>
 <h3 align="center">Im just a chill guy</h3>
 
-- 🔭 I’m currently working on **Early Skin Cancer Diagnosis**
+- 🔭 Just wondering around :)
 
-- 🌱 I’m currently learning **Explainable AI & Multi Modal Learning**
 
-- ⚡ Fun fact **Volleyball makes me Happy!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
